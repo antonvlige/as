@@ -1,5 +1,5 @@
 public class AS {
     public AS(){
-        System.out.println("AS");
+        System.out.println("AS2");
     }
 }
